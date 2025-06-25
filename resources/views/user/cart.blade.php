@@ -74,7 +74,7 @@
                     </div>
                     <input type="hidden" name="discount" value="{{ $discount }}">
                     <input type="hidden" name="total_price" value="{{ $total }}">
-                    <p>Need Help? call us at <a href="https://wa.me/6283847406524?text=Hi kak," class="text-black fw-medium">+62 83847406524</a></p>
+                    <p>Need Help? call us at <a href="https://wa.me/62000000000000?text=Hi kak," class="text-black fw-medium">+62 000000000000</a></p>
                     <button type="submit" class="btn btn-dark w-100">CHECKOUT</button>
                 </form>
             </div>
